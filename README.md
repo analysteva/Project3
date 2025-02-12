@@ -12,26 +12,29 @@ Below visuals have been made in Power BI desktop and describing results gathered
 <img src="assets/img/CB_1.JPG" alt="Example Image">
 
 *Coffee Bean Sales - Products and Orders:*
-<img src="assets/img/CB2_2.JPG" alt="Example Image">
+<img src="assets/img/CB_2.JPG" alt="Example Image">
 
 *Coffee Bean Sales - Key Indidators:*
 <img src="assets/img/CB_3.JPG" alt="Example Image">
 
 ## Key Insights:  
 #### Derived from the data analysis presented in the reports the analysis covers sales, profitability, sesonality and growth opportunities in different markets.
-#### 1. The United States is the dominant sales market (78.96% share)
+#### The United States is the dominant sales market (78.96% share)
   - The U.S. accounts for 78.96% of total revenue, while Ireland (14.84%) and the United Kingdom (6.2%) generate significantly lower values.
       
   - This suggests that the company should continue expanding in the U.S. market while also considering strategies to grow in Europe.         
-#### <p>2. Key U.S. states – Texas and New York lead in sales</p>
+#### Key U.S. states – Texas and New York lead in sales</p>
   - Texas generates the highest revenue, followed closely by New York, Ohio, and Florida.
   - Focusing on these states can yield higher profits, while also exploring potential growth in underperforming regions.
-#### 3. The highest sales occur in the first quarter of the year
+    
+#### The highest sales occur in the first quarter of the year
   - The highest revenue is generated in March ($4.8K), February ($4.2K), and January ($3.5K).
   - There is a significant drop in August ($2.3K), indicating seasonal demand fluctuations – promotional campaigns and discounts during this period could be beneficial.
+    
 #### 4. Profitability by product – higher-priced variants sell best
   - Products labeled "2.5" generate the highest revenue and profits, suggesting that customers are willing to pay more for larger packages or premium products.
   - A premium pricing strategy and loyalty bundles could further increase sales for these products.
+    
 #### 5. Orders are concentrated at the beginning of the week
   - The highest number of orders is placed on Mondays (150) and Tuesdays (151), while Thursdays and Fridays show lower activity.
   - Marketing campaigns and promotions should be aligned with these trends, e.g., offering discounts toward the end of the week.
