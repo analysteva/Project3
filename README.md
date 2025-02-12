@@ -1,11 +1,10 @@
 #### *Technical Skills: Excel, Power BI, Canva*
 ## Project Objective: 
-The objective of this project is to analyze and visualize data on the number of nurseries, their availability at the national level and across voivodeships, as well as the monthly costs associated with childcare and their regional distribution. 
-Additionally, interactive reports have been developed to enable efficient filtering and searching of nurseries across the country based on selected criteria, such as location and price range, providing users with a clear and data-driven overview of childcare accessibility. 
+This project aims to conduct a comprehensive sales trend analysis for a coffee bean shop, focusing on identifying the most and least profitable products, detecting periods of increased and decreased sales on a weekly, monthly, and yearly scale, and determining the highest order volumes based on demographics and product preferences. 
 
 ## Dataset Involved:
-The project is based on open data published by the Central Statistical Office of Poland. The dataset includes information on institutions listed in the Register of Nurseries and Children's Clubs as of February 2025, providing a comprehensive and up-to-date overview of childcare facilities across the country. <br>
-<B>*Data source:*</B> <a href="https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64230/">https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64230/</a>
+The project is based on a set of data published on the Kaggle platform containing coffee information about customers, orders and offered products.<br>
+<B>*Data source:*</B> <a href="https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset">https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset</a>
 
 ## Data Visualization:
 Below visuals have been made in Power BI desktop and describing results gathered from the dataset:<BR>
