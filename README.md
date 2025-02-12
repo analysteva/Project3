@@ -23,7 +23,7 @@ Below visuals have been made in Power BI desktop and describing results gathered
   - The U.S. accounts for 78.96% of total revenue, while Ireland (14.84%) and the United Kingdom (6.2%) generate significantly lower values.
       
   - This suggests that the company should continue expanding in the U.S. market while also considering strategies to grow in Europe.         
-#### 2. Key U.S. states – Texas and New York lead in sales
+#### <p>2. Key U.S. states – Texas and New York lead in sales</p>
   - Texas generates the highest revenue, followed closely by New York, Ohio, and Florida.
   - Focusing on these states can yield higher profits, while also exploring potential growth in underperforming regions.
 #### 3. The highest sales occur in the first quarter of the year
