@@ -7,27 +7,32 @@ The project is based on a set of data published on the Kaggle platform containin
 <B>*Data source:*</B> <a href="https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset">https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset</a>
 
 ## Data Visualization:
-Below visuals have been made in Power BI desktop and describing results gathered from the dataset:<BR>
+
+Below visuals have been made in Power BI desktop and describing results gathered from the dataset:
+
 *Coffee Bean Sales - Revenues and Profits:*
+
 <img src="assets/img/CB_1.JPG" alt="Example Image">
 
 *Coffee Bean Sales - Products and Orders:*
+
 <img src="assets/img/CB_2.JPG" alt="Example Image">
 
 *Coffee Bean Sales - Key Indidators:*
+
 <img src="assets/img/CB_3.JPG" alt="Example Image">
 
 ## Key Insights:  
 #### Derived from the data analysis presented in the reports the analysis covers sales, profitability, sesonality and growth opportunities in different markets.
-#### The United States is the dominant sales market (78.96% share)
+#### 1. The United States is the dominant sales market (78.96% share)
   - The U.S. accounts for 78.96% of total revenue, while Ireland (14.84%) and the United Kingdom (6.2%) generate significantly lower values.      
   - This suggests that the company should continue expanding in the U.S. market while also considering strategies to grow in Europe.
             
-#### Key U.S. states – Texas and New York lead in sales
+#### 2. Key U.S. states – Texas and New York lead in sales
   - Texas generates the highest revenue, followed closely by New York, Ohio, and Florida.
   - Focusing on these states can yield higher profits, while also exploring potential growth in underperforming regions.
     
-#### The highest sales occur in the first quarter of the year
+#### 3. The highest sales occur in the first quarter of the year
   - The highest revenue is generated in March ($4.8K), February ($4.2K), and January ($3.5K).
   - There is a significant drop in August ($2.3K), indicating seasonal demand fluctuations – promotional campaigns and discounts during this period could be beneficial.
     
