@@ -9,13 +9,13 @@ The project is based on a set of data published on the Kaggle platform containin
 ## Data Visualization:
 Below visuals have been made in Power BI desktop and describing results gathered from the dataset:<BR>
 *Coffee Bean Sales - Revenues and Profits:*
-<img src="assets/img/KN_1.JPG" alt="Example Image">
+<img src="assets/img/CB_1.JPG" alt="Example Image">
 
 *Coffee Bean Sales - Products and Orders:*
-<img src="assets/img/KN_2.JPG" alt="Example Image">
+<img src="assets/img/CB2_2.JPG" alt="Example Image">
 
 *Coffee Bean Sales - Key Indidators:*
-<img src="assets/img/KN_3.JPG" alt="Example Image">
+<img src="assets/img/CB_3.JPG" alt="Example Image">
 
 ## Key Insights:  
 #### Derived from the data analysis presented in the reports the analysis covers sales, profitability, sesonality and growth opportunities in different markets.
