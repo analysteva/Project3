@@ -3,7 +3,8 @@
 This project aims to conduct a comprehensive sales trend analysis for a coffee bean shop, focusing on identifying the most and least profitable products, detecting periods of increased and decreased sales on a weekly, monthly, and yearly scale, and determining the highest order volumes based on demographics and product preferences. The main objective of this project is to analyze coffee bean sales and profitability trends to optimize business performance. By examining sales distribution across countries, states, and product categories, the project aims to identify key markets and growth opportunities. A focus is placed on understanding seasonal fluctuations and purchasing behavior to develop effective marketing and pricing strategies. Additionally, the project seeks to enhance profitability by optimizing the product portfolio, increasing average order value, and improving sales in underperforming regions. The findings will guide strategic decisions, such as expanding in high-potential markets like Ireland and refining promotional efforts during low-sales periods. By leveraging data-driven insights, the project aims to maximize revenue, improve profit margins, and strengthen the company's market position.
 
 ## Dataset Involved:
-The project is based on a set of data published on the Kaggle platform containing coffee information about customers, orders and offered products.<br>
+The project is based on a set of data published on the Kaggle platform containing coffee information about customers, orders and offered products.
+
 <B>*Data source:*</B> <a href="https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset">https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset</a>
 
 ## Data Visualization:
